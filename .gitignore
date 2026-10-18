@@ -1,0 +1,5 @@
+# regenerable in ~5s from a backup dump via tools/build_local_db.py
+mangos.sqlite
+ahbot/v2/*.sql
+ahbot/v2/*.mangosd.rates.conf
+quests/*/*.sql
